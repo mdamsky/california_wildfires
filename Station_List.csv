@@ -1,0 +1,267 @@
+﻿Station Number,DWR Regional Office*,Name,County,Latitude,Longitude,ELEV,Status,Connect,Disconnect
+1,SCRO,Fresno/F.S.U. USDA,Fresno,36.814000,-119.732000,340,Inactive,6/7/1982,9/25/1988
+2,SCRO,Five Points  ,Fresno,36.336222,-120.112906,285,Active,6/7/1982,Active
+3,SCRO,Beach /Santa Cruz CO,Santa Cruz,36.881000,-121.793000,10,Inactive,5/30/1982,8/25/1986
+4,SCRO,Webb /Santa Cruz CO,Santa Cruz,36.972000,-121.726000,230,Inactive,5/30/1982,4/29/1988
+5,SCRO,Shafter/USDA,Kern,35.532695,-119.281862,360,Active,6/1/1982,Active
+6,NCRO,Davis,Yolo,38.535794,-121.776385,60,Active,7/17/1982,Active
+7,SCRO,Firebaugh/Telles,Fresno,36.851248,-120.590980,185,Active,9/22/1982,Active
+8,NRO,Gerber,Tehama,40.044065,-122.165408,250,Inactive,9/22/1982,8/14/2014
+9,SCRO,Lamont,Kern,35.238000,-118.894000,406,Inactive,9/29/1982,4/10/1989
+10,SCRO,Bakersfield/Greenlee,Kern,35.077222,-119.082211,400,Inactive,10/1/1982,4/16/1986
+11,SCRO,Bakersfield/Bonanza,Kern,35.160000,-119.181000,290,Inactive,9/29/1982,4/17/1986
+12,NRO,Durham,Butte,39.608639,-121.824431,130,Active,10/19/1982,Active
+13,NCRO,Camino,El Dorado,38.752307,-120.733870,2780,Active,10/19/1982,Active
+14,NRO,Orland,Glenn,39.739000,-122.171000,235,Inactive,10/30/1982,4/21/1987
+15,SCRO,Stratford,Kings,36.158138,-119.851408,193,Active,10/29/1982,Active
+16,SCRO,San Juan,Monterey,36.905000,-121.703000,44,Inactive,10/23/1982,8/24/1995
+17,SRO,El Centro,Imperial,32.846000,-115.448000,-86,Inactive,11/8/1982,5/27/1987
+18,SRO,Westmorland,Imperial,33.077000,-115.614000,-195,Inactive,11/11/1982,4/9/1986
+19,SCRO,Castroville,Monterey,36.768256,-121.773772,9,Inactive,11/18/1982,11/20/2019
+20,SCRO,Corcoran,Kings,36.040000,-119.573000,190,Inactive,11/22/1982,4/9/1986
+21,SCRO,Kettleman,Kings,35.867750,-119.894900,340,Inactive,11/19/1982,9/1/2017
+22,SCRO,Caruthers,Kings,36.490000,-119.779000,238,Inactive,11/18/1982,6/6/1988
+23,SCRO,King City,Monterey,36.174000,-121.117000,300,Inactive,11/19/1982,12/23/1985
+24,SRO,Thermal,Riverside,33.631000,-116.112000,-120,Inactive,11/22/1982,3/3/1986
+25,SRO,Rancho Mirage,Riverside,33.764000,-116.424000,240,Inactive,11/22/1982,11/20/1985
+26,SCRO,Lost Hills,Kern,35.505000,-119.690000,410,Inactive,11/29/1982,8/13/1986
+27,NCRO,Zamora,Yolo,38.808000,-121.908000,50,Inactive,12/5/1982,1/20/2006
+28,SCRO,Soledad,Monterey,36.447000,-121.364000,170,Inactive,1/4/1983,2/11/1987
+29,SCRO,Cantua Creek,Fresno,36.516000,-120.314000,275,Inactive,1/2/1983,7/23/1985
+30,NCRO,Nicolaus,Sutter,38.870600,-121.546075,32,Inactive,1/3/1983,12/29/2011
+31,SCRO,McFarland/Kern Farms,Kern,35.703000,-119.152000,480,Inactive,1/11/1983,3/8/1993
+32,NRO,Colusa,Colusa,39.226861,-122.024800,55,Inactive,1/13/1983,8/12/2016
+33,SCRO,Visalia,Tulare,36.301000,-119.223000,350,Inactive,1/5/1983,3/1/2007
+34,SRO,Rancho California,Riverside,33.489000,-117.199000,1820,Inactive,1/21/1983,11/25/1986
+35,SRO,Bishop,Inyo,37.358606,-118.405471,4170,Active,2/4/1983,Active
+36,SRO,Blythe,Riverside,33.655000,-114.558000,270,Inactive,3/13/1983,8/12/1988
+37,SCRO,USDA Salinas,Monterey,36.620000,-121.545000,120,Inactive,4/11/1983,7/27/1992
+38,SRO,Santa Maria,Santa Barbara,34.954000,-120.384000,270,Inactive,5/3/1983,4/27/1999
+39,SCRO,Parlier,Fresno,36.597481,-119.504120,337,Active,5/23/1983,Active
+40,SCRO,Mendota/MuriettaUSDA,Fresno,36.683000,-120.387000,187,Inactive,6/14/1983,4/15/1992
+41,SRO,Calipatria,Imperial,33.043151,-115.415835,-110,Active,7/17/1983,Active
+42,NCRO,Lodi ,San Joaquin,38.109000,-121.346000,23,Inactive,10/16/1983,1/18/2001
+43,NRO,McArthur,Shasta,41.063767,-121.456019,3310,Active,10/31/1983,Active
+44,SRO,Riverside,Riverside,33.964942,-117.336983,1020,Active,6/2/1985,Active
+45,SRO,San Diego,San Diego,32.787000,-117.135000,370,Inactive,6/9/1985,4/27/1989
+46,NRO,Macdoel,Siskiyou,41.792000,-122.064000,4254,Inactive,11/11/1985,6/11/1986
+47,NCRO,Brentwood,Contra Costa,37.928154,-121.659730,45,Active,11/18/1985,Active
+48,NRO,Tulelake,Siskiyou,42.003000,-121.427000,4042,Inactive,2/3/1986,9/30/1993
+49,SRO,Oceanside,San Diego,33.256000,-117.320000,50,Inactive,3/11/1986,10/29/2003
+50,SRO,Thermal,Riverside,33.646000,-116.242000,-30,Inactive,7/22/1986,1/11/1999
+51,NCRO,Healdsburg,Sonoma,38.662000,-122.866000,180,Inactive,8/24/1986,3/28/1994
+52,SRO,San Luis Obispo,San Luis Obispo,35.305442,-120.661783,330,Active,4/2/1986,Active
+53,SCRO,Greenfield,Monterey,36.341000,-121.257000,270,Inactive,10/10/1986,10/23/1991
+54,SCRO,Blackwells Corner,Kern,35.649861,-119.959300,705,Active,10/19/1986,Active
+55,SRO,Palm Desert,Riverside,33.730000,-116.382000,200,Inactive,5/26/1987,4/11/1994
+56,SCRO,Los Banos,Merced,37.097450,-120.754227,95,Active,6/28/1988,Active
+57,NRO,Buntingville,Lassen,40.289799,-120.433948,4005,Active,6/22/1986,Active
+58,SRO,Santa Paula,Ventura,34.302000,-119.119000,175,Inactive,7/30/1987,2/15/1991
+59,SCRO,Tehachapi,Kern,35.114000,-118.439000,4110,Inactive,7/29/1986,8/23/1990
+60,SRO,Barstow,San Bernardino,34.903000,-117.115000,2180,Inactive,11/20/1986,2/20/1992
+61,NRO,Orland,Glenn,39.691782,-122.153481,198,Inactive,5/13/1987,5/26/2010
+62,SRO,Temecula,Riverside,33.486650,-117.228269,1420,Active,11/25/1986,Active
+63,NCRO,Novato,Marin,38.121000,-122.543000,25,Inactive,7/1/1986,1/18/2002
+64,SRO,Santa Ynez,Santa Barbara,34.583144,-120.079239,478,Active,11/21/1986,Active
+65,NCRO,Walnut Creek,Contra Costa,37.914000,-122.082000,440,Inactive,7/22/1987,3/8/2002
+66,SRO,San Diego,San Diego,32.733000,-117.135000,370,Inactive,4/27/1989,12/19/2001
+67,SRO,Goleta,Santa Barbara,34.432000,-119.839000,30,Inactive,2/17/1988,4/7/1993
+68,SRO,Seeley,Imperial,32.759575,-115.732067,-38,Active,5/29/1987,Active
+69,SCRO,San Jose,Santa Clara,37.326000,-121.950000,125,Inactive,6/8/1987,11/22/2002
+70,NCRO,Manteca,San Joaquin,37.834822,-121.223194,38,Active,11/12/1987,Active
+71,SCRO,Modesto,Stanislaus,37.645222,-121.187764,35,Active,6/25/1987,Active
+72,SRO,Palo Verde,Imperial,33.388000,-114.723000,230,Inactive,9/8/1987,12/20/2000
+73,SRO,Hollywood Hills,Los Angeles,34.147000,-118.318000,560,Inactive,3/4/1988,9/14/1993
+74,SRO,Escondido,San Diego,33.090000,-116.973000,450,Inactive,4/26/1988,12/24/1998
+75,SRO,Irvine,Orange,33.688450,-117.721178,410,Active,10/7/1987,Active
+76,SRO,Betteravia,Santa Barbara,34.924000,-120.512000,160,Inactive,12/18/1987,7/1/1993
+77,NCRO,Oakville,Napa,38.428475,-122.410206,199,Active,3/1/1989,Active
+78,SRO,Pomona,Los Angeles,34.056589,-117.813069,720,Active,3/14/1989,Active
+79,NCRO,Angwin,Napa,38.549000,-122.421000,1720,Inactive,5/11/1989,12/27/1996
+80,SCRO,Fresno State,Fresno,36.820833,-119.742308,339,Active,10/3/1988,Active
+81,NCRO,Shenandoah Valley,Amador,38.523000,-120.804000,1550,Inactive,5/11/1990,5/17/2000
+82,SRO,Claremont,Los Angeles,34.130000,-117.696000,1620,Inactive,4/13/1989,9/26/2007
+83,NCRO,Santa Rosa,Sonoma,38.403550,-122.799931,80,Active,1/1/1990,Active
+84,NCRO,Browns Valley,Yuba,39.252561,-121.315669,940,Active,4/13/1989,Active
+85,NCRO,Hopland,Mendocino,39.006747,-123.080122,1128,Inactive,9/23/1989,4/25/2016
+86,SCRO,Lindcove,Tulare,36.360647,-119.059344,474,Active,5/31/1989,Active
+87,SRO,Meloland,Imperial,32.806183,-115.446258,-55,Active,12/12/1989,Active
+88,SRO,Cuyama,Santa Barbara,34.942525,-119.673800,2192,Active,5/20/1989,Active
+89,SCRO,Salinas South,Monterey,36.609444,-121.529300,160,Inactive,9/5/1992,9/25/2012
+90,NRO,Alturas,Modoc,41.438214,-120.480308,4405,Active,4/23/1989,Active
+91,NRO,Tulelake FS,Siskiyou,41.958869,-121.472372,4035,Active,4/12/1989,Active
+92,SCRO,Kesterson,Merced,37.231861,-120.880819,75,Active,10/13/1989,Active
+93,SCRO,Lamont,Kern,35.286000,-118.929000,382,Inactive,2/4/1990,10/3/1994
+94,SRO,Goleta Foothills,Santa Barbara,34.471579,-119.869484,626,Inactive,7/7/1990,7/18/2016
+95,SCRO,Watsonville,Santa Cruz,36.886000,-121.809000,100,Inactive,9/13/1989,7/24/1995
+96,NCRO,Woodside,San Mateo,37.453000,-122.280000,560,Inactive,10/31/1990,1/24/1994
+97,SRO,Port Hueneme,Ventura,34.173000,-119.200000,18,Inactive,2/16/1991,7/31/2000
+98,SRO,Ramona,San Diego,33.049000,-116.938000,1340,Inactive,4/20/1991,5/28/1998
+99,SRO,Santa Monica,Los Angeles,34.044311,-118.476886,358,Active,12/11/1992,Active
+100,NCRO,Fremont,Alameda,37.525000,-121.968000,40,Inactive,8/29/1991,6/19/2000
+101,SRO,Piru,Ventura,34.402222,-118.789167,640,Inactive,8/27/1991,2/20/2005
+102,SRO,El Dorado,Los Angeles,33.797000,-118.094000,17,Inactive,10/24/1990,10/20/1999
+103,NCRO,Windsor,Sonoma,38.526822,-122.813886,90,Active,12/14/1990,Active
+104,SCRO,De Laveaga,Santa Cruz,36.997831,-121.996863,314,Active,9/28/1990,Active
+105,SCRO,Westlands,Fresno,36.634028,-120.381811,191,Active,4/17/1992,Active
+106,NCRO,Sanel Valley,Mendocino,38.982737,-123.088704,549,Active,2/1/1991,Active
+107,SRO,Santa Barbara,Santa Barbara,34.437352,-119.737329,250,Active,4/7/1993,Active
+108,NRO,Gerber Dryland,Tehama,40.043000,-122.162000,245,Inactive,3/11/1991,5/12/1998
+109,NCRO,Carneros,Napa,38.219503,-122.354964,14,Active,3/11/1993,Active
+110,SRO,Newberry Springs,San Bernardino,34.840000,-116.642000,1929,Inactive,2/21/1992,12/27/1996
+111,SCRO,Green Valley Road,Santa Cruz,36.943964,-121.763942,110,Active,5/29/1992,Active
+112,SCRO,San Ardo,Monterey,36.079000,-120.958000,374,Inactive,6/18/1993,3/13/1995
+113,SCRO,King City-Oasis Rd.,Monterey,36.121275,-121.084455,552,Active,6/12/1993,Active
+114,SCRO,Arroyo Seco,Monterey,36.347415,-121.291248,235,Active,6/18/1993,Active
+115,SCRO,Gonzales,Monterey,36.515000,-121.510000,146,Inactive,6/12/1993,11/10/1998
+116,SCRO,Salinas North,Monterey,36.716806,-121.691889,61,Active,6/18/1993,Active
+117,SRO,Victorville,San Bernardino,34.475914,-117.263514,2890,Active,2/1/1994,Active
+118,SRO,Cathedral City,Riverside,33.841387,-116.478729,421,Inactive,12/7/1995,10/9/2014
+119,NCRO,Putah Creek,Solano,38.495000,-122.004000,180,Inactive,8/21/1993,1/25/1995
+120,SRO,Guadalupe,Santa Barbara,34.962000,-120.548000,110,Inactive,12/24/1993,11/28/2000
+121,NCRO,Dixon,Solano,38.415564,-121.786911,37,Active,9/20/1994,Active
+122,NCRO,Hastings Tract,Solano,38.283047,-121.790616,10,Inactive,3/28/1995,6/10/2009
+123,NCRO,Suisun Valley,Solano,38.233972,-122.116994,35,Inactive,8/18/1994,7/11/2010
+124,SCRO,Panoche,Fresno,36.890096,-120.731665,183,Active,7/27/1995,Active
+125,SCRO,Arvin-Edison,Kern,35.205810,-118.778437,508,Active,3/22/1995,Active
+126,SCRO,San Benito,San Benito,36.854875,-121.362693,340,Active,6/9/1994,Active
+127,SRO,Salton West,Imperial,33.327703,-115.944842,-225,Inactive,11/21/1994,9/16/2012
+128,SRO,Salton East,Imperial,33.220186,-115.580117,-226,Inactive,11/17/1994,8/9/2013
+129,SCRO,Pajaro,Monterey,36.902778,-121.741931,65,Active,9/13/1995,Active
+130,SRO,Temecula East,Riverside,33.556000,-117.037000,1500,Inactive,7/1/1995,11/5/1996
+131,NCRO,Fair Oaks,Sacramento,38.649964,-121.218872,265,Active,4/18/1997,Active
+132,SCRO,Morgan Hill,Santa Clara,37.151534,-121.636330,400,Inactive,4/28/1997,5/1/2008
+133,SRO,Glendale,Los Angeles,34.196531,-118.230203,1076,Inactive,8/7/1996,1/5/2015
+134,SRO,Barstow NE,San Bernardino,34.884267,-116.979861,2068,Inactive,1/8/1997,10/30/2013
+135,SRO,Blythe NE,Riverside,33.662869,-114.558108,275,Active,1/16/1997,Active
+136,SRO,Oasis,Riverside,33.523694,-116.155750,12,Active,1/7/1997,Active
+137,SRO,Temecula East II,Riverside,33.558017,-117.031661,1536,Inactive,2/20/1997,9/20/2011
+138,SCRO,Famoso,Kern,35.603513,-119.212587,415,Inactive,4/9/1997,12/29/2015
+139,NCRO,Winters,Solano,38.501258,-121.978528,136,Active,6/15/1998,Active
+140,NCRO,Twitchell Island,Sacramento,38.121739,-121.674455,0,Active,10/8/1997,Active
+141,SRO,Mecca,Riverside,33.536894,-115.992803,-180,Inactive,5/5/1998,3/11/2010
+142,SCRO,Orange Cove,Fresno,36.721083,-119.389028,470,Active,1/1/1999,Active
+143,SCRO,San Juan Valley,San Benito,36.822926,-121.467934,268,Active,1/1/1998,Active
+144,NCRO,Petaluma,Sonoma,38.266428,-122.616464,97,Active,8/25/1999,Active
+145,SCRO,Madera,Madera,37.016528,-120.186394,230,Inactive,5/13/1998,3/27/2013
+146,SCRO,Belridge,Kern,35.505833,-119.691144,410,Active,10/9/1998,Active
+147,SRO,Otay Lake,San Diego,32.628208,-116.939281,580,Active,4/15/1999,Active
+148,SCRO,Merced,Merced,37.314139,-120.386700,200,Active,1/4/1999,Active
+149,NCRO,Oakland Foothills,Alameda,37.780653,-122.180150,145,Inactive,3/25/1999,8/13/2013
+150,SRO,Miramar,San Diego,32.885847,-117.143142,445,Active,4/23/1999,Active
+151,SRO,Ripley,Riverside,33.532222,-114.633889,251,Active,12/19/1998,Active
+152,SRO,Camarillo,Ventura,34.219386,-118.992439,130,Active,1/21/2000,Active
+153,SRO,Escondido SPV,San Diego,33.081050,-116.975697,390,Active,2/1/1999,Active
+154,SRO,Salton Sea North,Riverside,33.549000,-115.916000,-200,Inactive,10/15/1998,10/30/2003
+155,NCRO,Bryte (Experimental),Yolo,38.599158,-121.540406,40,Active,12/10/1998,Active
+156,SRO,Oxnard,Ventura,34.233639,-119.196922,48,Inactive,10/12/2001,4/27/2017
+157,NCRO,Point San Pedro,Marin,37.995478,-122.467656,5,Active,10/11/2002,Active
+158,NCRO,Bennett Valley,Sonoma,38.419439,-122.658719,270,Active,10/1/2000,Active
+159,SRO,Monrovia,Los Angeles,34.146372,-117.985797,595,Active,10/15/1999,Active
+160,SRO,San Luis Obispo West,San Luis Obispo,35.335267,-120.735652,285,Active,11/1/2000,Active
+161,SCRO,Patterson,Stanislaus,37.438944,-121.138511,183,Active,8/23/1999,10/12/2017
+162,SRO,Indio,Riverside,33.746000,-116.258000,40,Inactive,12/24/1999,2/26/2006
+163,SRO,Atascadero,San Luis Obispo,35.472556,-120.648142,885,Active,11/21/2000,Active
+164,NCRO,Valley of the Moon,Sonoma,38.312000,-122.499000,155,Inactive,4/1/2000,12/18/2001
+165,SRO,Sisquoc,Santa Barbara,34.841878,-120.212736,536,Active,4/26/2000,Active
+166,NCRO,Lodi West,San Joaquin,38.129641,-121.386323,11,Inactive,9/13/2000,3/20/2015
+167,NCRO,Tracy,San Joaquin,37.725881,-121.475517,82,Inactive,9/1/2001,5/31/2017
+168,SCRO,Denair,Stanislaus,37.552922,-120.779285,140,Inactive,8/28/2002,4/9/2009
+169,SCRO,Porterville,Tulare,36.082272,-119.093178,400,Active,8/2/2000,Active
+170,NCRO,Concord,Contra Costa,38.015372,-122.020278,35,Active,4/6/2001,Active
+171,NCRO,Union City,Alameda,37.598758,-122.053233,16,Active,2/5/2001,Active
+172,SCRO,Lost Hills NW,Kern,35.734000,-119.749000,225,Inactive,7/26/2000,7/1/2003
+173,SRO,Torrey Pines,San Diego,32.901867,-117.250458,335,Active,11/29/2000,Active
+174,SRO,Long Beach,Los Angeles,33.798697,-118.094792,17,Active,9/22/2000,Active
+175,SRO,Palo Verde II,Imperial,33.383070,-114.719385,230,Active,1/11/2001,Active
+176,SRO,La Quinta,Riverside,33.686000,-116.306000,42,Inactive,11/10/2000,9/26/2006
+177,SCRO,Watsonville West,Santa Cruz,36.900000,-121.813000,212,Inactive,11/30/2000,3/22/2006
+178,NCRO,Moraga,Contra Costa,37.837614,-122.140739,510,Active,2/27/2002,Active
+179,SRO,Winchester,Riverside,33.663325,-117.093383,1452,Active,2/7/2002,Active
+180,SRO,Westmorland West,Imperial,33.124000,-115.803000,-218,Inactive,11/8/2001,7/21/2003
+181,SRO,Westmorland North,Imperial,33.080733,-115.685700,-200,Active,4/1/2004,Active
+182,SCRO,Delano,Tulare,35.833059,-119.255846,300,Active,3/21/2002,Active
+183,SRO,Owens Lake North,Inyo,36.488468,-117.919428,3558,Active,12/16/2002,Active
+184,SRO,San Diego II,San Diego,32.729480,-117.139488,255,Active,3/1/2002,Active
+185,SRO,UC-Mex,Imperial,32.411000,-115.197000,39,Inactive,1/18/2002,8/28/2002
+186,SRO,UC-San Luis,Imperial,32.492658,-114.826164,93,Inactive,4/16/2002,1/25/2016
+187,NCRO,Black Point ,Marin,38.090933,-122.526703,1,Active,6/1/2003,Active
+188,SCRO,Madera II,Madera,37.016760,-120.148802,242,Inactive,3/27/2013,6/23/2018
+189,SRO,Owens Lake South,Inyo,36.358628,-117.943869,3564,Active,4/1/2003,Active
+190,SCRO,Five Points South West,Fresno,36.382028,-120.229850,270,Inactive,7/2/2003,12/4/2019
+191,NCRO,Pleasanton,Alameda,37.663969,-121.885033,335,Active,5/1/2004,Active
+192,SRO,Lake Arrowhead,San Bernardino,34.255980,-117.218463,5148,Active,3/20/2004,Active
+193,SCRO,Pacific Grove,Monterey,36.633240,-121.934847,38,Active,10/26/2011,Active
+194,SCRO,Oakdale,Stanislaus,37.720739,-120.852101,183,Active,11/2/2004,Active
+195,NCRO,Auburn,Placer,38.887603,-121.102908,935,Active,2/16/2005,Active
+196,NCRO,Esparto,Yolo,38.691786,-122.013808,174,Inactive,4/15/2005,7/15/2017
+197,SRO,Palmdale,Los Angeles,34.614981,-118.032492,2550,Active,4/6/2005,Active
+198,SRO,Santa Paula,Ventura,34.324639,-119.104875,218,Active,3/30/2005,Active
+199,SRO,Big Bear Lake,San Bernardino,34.237645,-116.865853,6910,Active,7/19/2005,Active
+200,SRO,Indio II,Riverside,33.748586,-116.252903,40,Active,5/16/2006,Active
+201,SRO,UC-Andrade,Imperial,32.674353,-115.044381,120,Inactive,1/1/2006,10/1/2015
+202,SRO,Nipomo,San Luis Obispo,35.028281,-120.560033,255,Active,6/27/2006,Active
+203,SCRO,Alpaugh,Tulare,35.862569,-119.503700,210,Active,7/11/2006,11/16/2017
+204,SRO,Santa Clarita,Los Angeles,34.426361,-118.517583,1410,Active,12/4/2006,Active
+205,SCRO,Coalinga,Fresno,36.175833,-120.360270,730,Active,3/25/2010,Active
+206,SCRO,Denair II,Stanislaus,37.545869,-120.754531,150,Active,4/9/2009,Active
+207,SRO,Borrego Springs ,San Diego,33.268447,-116.365050,578,Active,1/4/2008,Active
+208,SRO,La Quinta II,Riverside,33.678151,-116.272921,36,Active,2/6/2007,Active
+209,SCRO,Watsonville West II,Santa Cruz,36.913166,-121.823497,305,Active,6/13/2007,Active
+210,SCRO,Carmel,Monterey,36.540942,-121.882096,75,Active,7/22/2008,Active
+211,SCRO,Gilroy,Santa Clara,37.015026,-121.537043,185,Active,9/1/2009,Active
+212,NCRO,Hastings Tract East,Solano,38.277972,-121.740989,7,Active,10/20/2009,Active
+213,NCRO,El Cerrito,Contra Costa,37.931547,-122.302714,596,Active,9/24/2013,Active
+214,SCRO,Salinas South II,Monterey,36.625626,-121.537887,153,Active,5/17/2013,Active
+215,SRO,Chatsworth,Los Angeles,34.291331,-118.570044,1536,Active,9/6/2011,Active
+216,SRO,Arleta,Los Angeles,34.256150,-118.382905,980,Active,9/8/2011,Active
+217,SRO,Moorpark,Ventura,34.269031,-118.849319,718,Active,7/3/2014,Active
+218,SRO,Thermal South,Riverside,33.595736,-116.158761,-146,Active,1/30/2010,Active
+219,SRO,West Hills,Los Angeles,34.214197,-118.644769,926,Active,9/6/2011,Active
+220,SRO,Palmdale Central,Los Angeles,34.592310,-118.127464,2630,Active,3/23/2011,Active
+221,SRO,Cadiz Valley,San Bernardino,34.513611,-115.510556,797,Active,11/1/2010,Active
+222,NRO,Gerber South,Tehama,40.028778,-122.155750,246,Active,8/13/2014,Active
+223,SRO,North Hollywood,Los Angeles,34.142911,-118.366320,570,Inactive,1/30/2018,Active
+224,NRO,Shasta College,Shasta,40.625499,-122.310887,592,Active,1/1/2013,Active
+225,NRO,Scott Valley,Siskiyou,41.577778,-122.838125,2733,Active,4/1/2015,Active
+226,NCRO,Woodland,Yolo,38.672722,-121.811722,82,Active,5/12/2011,Active
+227,NCRO,Plymouth,Amador,38.508333,-120.799720,1520,Active,11/1/2010,Active
+228,NCRO,Diamond Springs,El Dorado,38.636111,-120.793056,2050,Active,9/29/2010,Active
+229,SCRO,Laguna Seca,Monterey,36.570101,-121.786499,320,Active,10/24/2011,Active
+230,SRO,Santa Barbara II,Santa Barbara,34.405556,-119.715000,440,Inactive,1/10/2011,1/23/2018
+231,SRO,Lompoc,Santa Barbara,34.672222,-120.513056,55,Active,7/14/2010,Active
+232,SRO,Santa Maria II,Santa Barbara,34.913472,-120.464778,215,Active,4/1/2011,Active
+233,SRO,Joshua Tree ,San Bernardino,34.138104,-116.213508,2479,Active,12/1/2011,Active
+234,SRO,Newberry Springs II,San Bernardino,34.883472,-116.810247,1930,Active,2/25/2015,Active
+235,NCRO,Verona,Sutter,38.797944,-121.611361,24,Active,5/18/2012,Active
+236,NRO,Macdoel II,Siskiyou,41.802476,-121.996159,4265,Active,4/16/2015,Active
+237,SRO,Temecula East III,Riverside,33.552810,-117.043302,1530,Active,11/1/2012,Active
+238,SRO,Moreno Valley,Riverside,33.899914,-117.171325,1604,Inactive,4/19/2013,4/24/2018
+239,SRO,Hemet,Riverside,33.664747,-116.955121,1768,Active,1/22/2015,Active
+240,SRO,Perris - Menifee,Riverside,33.756308,-117.197142,1421,Active,5/25/2013,Active
+241,SRO,San Clemente,Orange,33.462405,-117.586497,224,Active,7/28/2015,Active
+242,NCRO,Staten Island,San Joaquin,38.192386,-121.510339,-10,Active,11/5/2015,Active
+243,NCRO,Ryde,Sacramento,38.249622,-121.555528,-10,Active,12/16/2015,Active
+244,NRO,Biggs,Butte,39.386632,-121.835263,72,Active,6/18/2015,Active
+245,SRO,Coto de Caza,Orange,33.621667,-117.585278,846,Active,10/7/2015,Active
+246,NCRO,Markleeville,Alpine,38.773409,-119.791930,5517,Active,6/13/2014,Active
+247,NCRO,Jersey Island,Contra Costa,38.033386,-121.701247,-12,Active,7/1/2016,Active
+248,NCRO,Holt,San Joaquin,37.932180,-121.397461,-3,Active,7/1/2016,Active
+249,NCRO,Ripon,San Joaquin,37.755597,-121.266153,20,Active,7/1/2016,Active
+250,NRO,Williams,Colusa,39.210667,-122.168889,69,Active,8/9/2016,Active
+251,SRO,Highland,San Bernardino,34.112042,-117.185700,1275,Active,10/10/2016,Active
+252,SCRO,Soledad II,Monterey,36.456728,-121.344388,214,Active,9/3/2016,Active
+253,NCRO,Pescadero,San Mateo,37.255333,-122.370800,47,Active,8/24/2017,Active
+254,NCRO,Oakland Metro,Alameda,37.718167,-122.197111,14,Active,3/12/2018,Active
+255,SRO,Chino,San Bernardino,33.985350,-117.656528,637,Active,3/8/2018,Active
+256,SRO,Lancaster,Los Angeles,34.759475,-117.991997,2340,Active,7/26/2018,Active
+257,SRO,Ridgecrest,Kern,35.659128,-117.636925,2234,Active,10/10/2018,Active
+258,SCRO,Lemon Cove,Tulare,36.376917,-119.037972,498,Active,11/15/2018,Active
+259,NRO,Ferndale Plain,Humboldt,40.604467,-124.243186,21,Active,8/5/2019,Active
+260,NRO,Montague,Siskiyou,41.798331,-122.463425,2663,Active,9/20/2019,Active
+261,NRO,Gazelle,Siskiyou,41.533989,-122.532279,2743,Active,9/18/2019,Active
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
