@@ -1,1 +1,1 @@
-# california_wildfires
+# California Wildfire Predictor
