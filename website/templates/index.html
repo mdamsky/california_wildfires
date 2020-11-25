@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>California Wildfire Predictor</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.min.css">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}">
+</head>
+<body>
+	<section class="splash">
+		<h1>California Wildfire Predictor</h1>
+		<p>A project for the Data-X class at UC Berkeley, Fall 2020.</p>
+		<form action="#predict">
+			<button type="submit">Check it Out</button>
+		</form>
+	</section>
+
+	<section id="predict">
+		<div class="predict-text">
+			<h3>Enter a location and time of year.</h3>
+			<p>The map will display an estimate of what fires may look like in that region in 2021.</p>
+			<form action="" method="post" style="margin-bottom: 100px;">
+				<label for="loc">Location</label><br>
+				<input type="text" name="loc" placeholder="Zip Code"><br>
+				<label for="month">Month</label><br>
+				<select name="month">
+					<option value="" disabled selected>Choose One</option>
+					<option value="january">January</option>
+					<option value="february">February</option>
+					<option value="march">March</option>
+					<option value="april">April</option>
+					<option value="may">May</option>
+					<option value="june">June</option>
+					<option value="july">July</option>
+					<option value="august">August</option>
+					<option value="september">September</option>
+					<option value="october">October</option>
+					<option value="november">November</option>
+					<option value="december">December</option>
+				</select> <br><br>
+				<button type="submit">Submit</button>
+			</form>
+
+			<a href="explore">Explore California Fire History &#8594;</a>
+		</div>
+		<iframe class="map" src="{{ url_for('final') }}" width="500" height="500"></iframe>
+	</section>
+
+	<section>
+		<h3>How does this work?</h3>
+		<p>
+			Sic de isto et tutius perducit ad actum ipsum, ut si dico Ego autem vadam lavari, ut mens mea in statu naturae conformior. Et similiter circa alias res. Et sic, si contingit ex per se lavantem, et erit hoc paratus ut diceret, Hoc non solum lavari ut desideravit, sed ut animus in statu naturae convenienter naturae, et non ut si ego quæ ventura offendit. <br><br>
+
+			Sollicitant homines non sunt nisi quam formae rerum principiis opiniones. Mors enim est terribilis ut Socrati aliud esse apparet. Sed timor mortis est notio terribile. Cum igitur impediantur turbentur aut dolere videamus aliis non tribuunt nisi nobis hoc est, in principiis nostra. <br><br>
+
+			Ponam in culpa idiota aliis pravitatis. Principium ponere culpam in se justum praeceptum. Neque improperes et aliis qui non perfecte ipse docuit.
+		</p>
+	</section>
+
+	<section>
+		<hr>
+		<div class="footer">
+			<p>
+				<b>Created by:</b> <br>
+				Michael Damsky, Christine Chow, Deevy Bhimani, and William Pu
+			</p>
+			<p>Made with &#9825; in Berkeley, CA</p>
+		</div>
+	</section>
+</body>
+</html>
