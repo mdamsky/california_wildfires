@@ -12,17 +12,17 @@ def home():
 		cal = folium.Map(location=[37.166110, -119.449440], zoom_start=6)
 		cal.save('templates/map.html')
 		return render_template('index.html')
-
+# [37.7695, -121.5397
 	else: 
 		loc = request.form['loc']
-		season = request.form['month'].lower()
+		month = request.form['month'].lower()
 
-		date_dict = {"january": "2020-01-01", "february": "2020-02-01", "march": "2020-03-01", "april": "2020-04-01", "may": "2020-05-01", "june": "2020-06-01",
-		"july": "2020-07-01", "august": "2020-08-01", "september": "2020-09-01", "october": "2020-10-01", "november": "2020-11-01", "december": "2020-12-01"}
+		date_dict = {"january": "2020-01-15", "february": "2020-02-15", "march": "2020-03-15", "april": "2020-04-15", "may": "2020-05-15", "june": "2020-06-15",
+		"july": "2020-07-15", "august": "2020-08-15", "september": "2020-09-15", "october": "2020-10-15", "november": "2020-11-15", "december": "2020-12-15"}
 		nomi = pgeocode.Nominatim('us')
 		zip_search = nomi.query_postal_code(loc)
 
-		fire_date = date_dict[season]
+		fire_date = date_dict[month]
 		fire_lat = zip_search['latitude']
 		fire_lon = zip_search['longitude']
 		fire_county = zip_search['county_name']

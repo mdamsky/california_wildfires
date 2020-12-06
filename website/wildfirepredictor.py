@@ -135,7 +135,7 @@ def map_gen(fire_date, fire_lat, fire_lon, fire_county, acres_burned):
           location=[fire_lat, fire_lon],
           radius= acres_burned*15,
           color='red',
-          popup= 'Acres Burned:' + str(acres_burned),
+          popup= 'Acres Burned: ' + str(round(acres_burned, 3)),
           fill=True,
           fill_color='red' 
           ).add_to(base_map)
